@@ -83,7 +83,7 @@ tempCelsius = float(input("Ingrese una temperatura en grados Celsius: "))
 tempFahrenheit = (tempCelsius * 9/5) + 32
 print(f"{tempCelsius} C equivalen a {tempFahrenheit:.2f} F")
 
-# Programa 10: Programa que pida al usuario  3 números e imprima por pantalla el promedio de 
+# Programa 10: Programa que pida al usuario  3 numeros e imprima por pantalla el promedio de 
 # dichos numeros.
 
 print("// Programa 10:")
