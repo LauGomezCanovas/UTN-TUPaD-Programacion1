@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TP3 Estructuras Condicionales", "TP3 Estructuras Condicionales\TP3 Estructuras Condicionales.pyproj", "{75BCA8C9-CF19-4346-AA4C-5DA82023FEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BCA8C9-CF19-4346-AA4C-5DA82023FEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BCA8C9-CF19-4346-AA4C-5DA82023FEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C061CE-B316-4760-A35A-2CC8EB82D948}
+	EndGlobalSection
+EndGlobal
