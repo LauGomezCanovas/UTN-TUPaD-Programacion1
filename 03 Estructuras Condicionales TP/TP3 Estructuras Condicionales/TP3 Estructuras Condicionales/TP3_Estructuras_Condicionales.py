@@ -129,6 +129,7 @@ hemisferio = input("En que hemisferio estas? (N/S): ").strip().upper()
 mes = input("En que mes estas?: ").strip().lower()
 dia = int(input("Que dia del mes es?: "))
 
+# Convierte mes a un numero (Facilita las comparaciones)
 meses = {
     "enero": 1, "febrero": 2, "marzo": 3, "abril": 4,
     "mayo": 5, "junio": 6, "julio": 7, "agosto": 8,
@@ -136,6 +137,7 @@ meses = {
 }
 num_mes = meses.get(mes, 0)
 
+# Determinar la estacion
 estacion = ""
 
 if num_mes == 0:
@@ -152,4 +154,5 @@ else:
     else:
         estacion = "Datos fuera de rango"
 
+# Muestra Resultado:
 print(f"En el hemisferio {hemisferio}, es {estacion}.")
