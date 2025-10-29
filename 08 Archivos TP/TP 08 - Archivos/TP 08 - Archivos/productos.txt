@@ -1,0 +1,6 @@
+Lapicera, 120.5, 30
+Lapiz, 100.0, 20
+Goma, 20.0, 100
+Resaltador, 400.0, 2
+Boligoma, 600.0, 4
+Jugo, 10000000.0, 1.0
